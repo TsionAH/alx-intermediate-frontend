@@ -1,0 +1,12 @@
+Steps I used to install SASS:
+
+1. Installed nvm (Node Version Manager):
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   Reopened terminal or sourced nvm.
+
+2. Installed Node v20.16 and set it active:
+   nvm install 20.16
+   nvm use 20.16
+
+3. Installed Dart Sass globally:
+   npm install -g sass
